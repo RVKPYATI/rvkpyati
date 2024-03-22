@@ -14,7 +14,9 @@ I love bringing ideas to life on the screen. I work with:
 - **CSS Modules**: For locally scoped CSS.
 - **Tailwind CSS**: For utility-first styling.
 - And more...
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="64"/>
+</div>
 
 ## Backend Development 🧰
 Creating robust backend systems is another forte. My toolkit includes:
