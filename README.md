@@ -59,8 +59,6 @@ To bring it all together, I use some of the best tools in the trade:
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="64"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original-wordmark.svg" width="64"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="64"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="64"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="64"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-line-wordmark.svg" width="64"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="64"/>
 </div>
